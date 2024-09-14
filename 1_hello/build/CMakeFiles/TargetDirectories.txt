@@ -1,0 +1,3 @@
+D:/SoftwareDevelopment/OpenGL/1_hello/build/CMakeFiles/hello_window.dir
+D:/SoftwareDevelopment/OpenGL/1_hello/build/CMakeFiles/ALL_BUILD.dir
+D:/SoftwareDevelopment/OpenGL/1_hello/build/CMakeFiles/ZERO_CHECK.dir

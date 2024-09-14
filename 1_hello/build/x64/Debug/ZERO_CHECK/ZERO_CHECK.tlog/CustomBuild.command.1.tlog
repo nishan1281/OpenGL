@@ -1,0 +1,10 @@
+^D:\SOFTWAREDEVELOPMENT\OPENGL\1_HELLO\BUILD\CMAKEFILES\44E7BBEDBC8A9F67FD461AD70C128E9C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/SoftwareDevelopment/OpenGL/1_hello -BD:/SoftwareDevelopment/OpenGL/1_hello/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/SoftwareDevelopment/OpenGL/1_hello/build/hello_window.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
