@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftwareDevelopment\\OpenGL\\OpenGl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2630CBB6-C975-4C97-BAF3-F2DFFD2887C0}|OpenGl\\OpenGl.vcxproj|D:\\SoftwareDevelopment\\OpenGL\\OpenGl\\OpenGl\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2630CBB6-C975-4C97-BAF3-F2DFFD2887C0}|OpenGl\\OpenGl.vcxproj|solutionrelative:OpenGl\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "application.cpp",
+              "DocumentMoniker": "D:\\SoftwareDevelopment\\OpenGL\\OpenGl\\OpenGl\\application.cpp",
+              "RelativeDocumentMoniker": "OpenGl\\application.cpp",
+              "ToolTip": "D:\\SoftwareDevelopment\\OpenGL\\OpenGl\\OpenGl\\application.cpp",
+              "RelativeToolTip": "OpenGl\\application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T05:15:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
